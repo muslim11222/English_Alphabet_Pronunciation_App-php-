@@ -8,14 +8,8 @@
 </head>
 <body>
      <h1> English Alphabet Pronunciation App </h1>
-
-
-
-
      <div class="main_container">
           <h2> Press the button to pronounce </h2>
-
-
           <!-- form area -->
           <form action="index.php" method="POST">
 
